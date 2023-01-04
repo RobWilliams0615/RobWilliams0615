@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi there! Welcome to my GitHub Profile!👋
 
-<!--
-**RobWilliams0615/RobWilliams0615** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
+##### About me:
+- 🏢 I'm currently working @ **Bitewell** as a Software Engineer
+- 🔭 I’m currently working on our version2 of the application
+- 🌱 I’m currently learning DRF and building out a search api
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+- 📫 How to reach me: [LinkedIn] (https://www.linkedin.com/in/robwilliamsdev/)
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I love Skiing and the outdoors!
+
+
